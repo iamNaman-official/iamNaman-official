@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I'm Naman, an aspiring AI/ML Engineer.<br><br>🤖 What I do: I am passionate about exploring data, training models, and building intelligent solutions.<br><br>🛠️ My tools: I primarily work with [e.g., Python,  C++,  Smolagents,  Pandas].<br><br>🌱 Currently learning: Diving deeper into [e.g. AI Agents, Datasets].<br><br>
+👋 Hi, I'm Naman, an aspiring AI/ML Engineer.
+
+🌱 **Currently:** Open Source Contributor for GSSoC '26 (AI/Agents Track)
+
+🔭 **What I do:** I am passionate about exploring data, training models, and building intelligent solutions.
+
+🛠️ **My tools:** I primarily work with Python, C++, Smolagents, and Pandas.
+
+🚀 **Currently learning:** Diving deeper into AI Agents, RAG architectures, and API integrations.<br><br>
 
 
 ## 🌐 Socials:
@@ -12,8 +20,6 @@
 ![](https://streak-stats.demolab.com/?user=iamNaman-official&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamNaman-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamNaman-official&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
