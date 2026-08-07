@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Naman, an aspiring AI/ML Engineer.
 
-🌱 **Currently:** Open Source Contributor for GSSoC '26 (AI/Agents Track)
-
 🔭 **What I do:** I am passionate about exploring data, training models, and building intelligent solutions.
 
 🛠️ **My tools:** I primarily work with Python, C++, Smolagents, and Pandas.
